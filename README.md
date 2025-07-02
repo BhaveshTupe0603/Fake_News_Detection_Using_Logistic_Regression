@@ -1,6 +1,7 @@
 # 📰 Fake News Detection using Logistic Regression
 
 This project is a Machine Learning-based **Fake News Detection** system that classifies a given news article as either **Fake** or **Real**. It uses **Natural Language Processing (NLP)** techniques for text transformation and a **Logistic Regression** classifier for prediction. The model is deployed using **Streamlit**, enabling users to interactively test news articles in real-time.
+![Screenshot 2025-07-03 015300](https://github.com/user-attachments/assets/337923f8-a517-4573-887b-c6db3350b8a9)
 
 ---
 
